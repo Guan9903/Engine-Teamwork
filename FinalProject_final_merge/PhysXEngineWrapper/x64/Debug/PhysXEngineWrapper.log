@@ -1,0 +1,14 @@
+﻿  physics.cpp
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\PhysXEngineWrapper\Physics.h(23,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\PhysXEngineWrapper\physics.cpp(278,36): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\PhysXEngineWrapper\physics.cpp(296,34): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\PhysXEngineWrapper\physics.cpp(315,34): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\PhysXEngineWrapper\physics.cpp(342,37): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\PhysXEngineWrapper\physics.cpp(379,37): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\PhysXEngineWrapper\physics.cpp(419,36): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+  SimulationEvents.cpp
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\PhysXEngineWrapper\physics.h(23,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  testMain.cpp
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\PhysXEngineWrapper\Physics.h(23,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  PhysXEngineWrapper.vcxproj -> D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\x64\Debug\PhysXEngineWrapper.lib

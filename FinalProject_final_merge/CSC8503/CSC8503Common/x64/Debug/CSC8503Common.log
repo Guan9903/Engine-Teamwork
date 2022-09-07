@@ -1,0 +1,29 @@
+﻿  CollisionDetection.cpp
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\PhysXEngineWrapper\physics.h(23,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Debug.cpp
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  GameObject.cpp
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\PhysXEngineWrapper\physics.h(23,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Game.cpp
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\PhysXEngineWrapper\physics.h(23,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\CSC8503\CSC8503Common\PaintableGameObject.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\CSC8503\CSC8503Common\PaintableGameObject.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\CSC8503\CSC8503Common\Game.cpp(234,47): warning C4305: 'argument': truncation from 'double' to 'float'
+  PaintableGameObject.cpp
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\CSC8503\CSC8503Common\PaintableGameObject.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\PhysXEngineWrapper\physics.h(23,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\CSC8503\CSC8503Common\PaintableGameObject.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  PhysicsObject.cpp
+  PushdownMachine.cpp
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\CSC8503\CSC8503Common\PushdownMachine.h(41,1): warning C4150: deletion of pointer to incomplete type 'NCL::CSC8503::PushdownState'; no destructor called
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\CSC8503\CSC8503Common\PushdownMachine.h(6): message : see declaration of 'NCL::CSC8503::PushdownState'
+  PushdownState.cpp
+  QuadTree.cpp
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\PhysXEngineWrapper\physics.h(23,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\Common\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  RenderObject.cpp
+  Transform.cpp
+  Generating Code...
+  CSC8503Common.vcxproj -> D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\x64\Debug\CSC8503Common.lib

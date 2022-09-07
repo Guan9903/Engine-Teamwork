@@ -1,0 +1,8 @@
+﻿  GameClient.cpp
+  GameServer.cpp
+D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\NetworkEngine\GameServer.cpp(149,55): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  NetworkBase.cpp
+  NetworkCommon.cpp
+  NetworkUser.cpp
+  Generating Code...
+  NetworkEngine.vcxproj -> D:\Git\Game Engine\Engine-Teamwork\FinalProject_final_merge\x64\Debug\NetworkEngine.lib

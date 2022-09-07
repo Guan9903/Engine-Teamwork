@@ -1,0 +1,18 @@
+﻿  CollisionDetection.cpp
+  Debug.cpp
+H:\GitHub\FinalProject\PhysXEngineWrapper\physics.h(2,10): error C1083:  Cannot open include file: 'PxPhysicsAPI.h': No such file or directory
+H:\GitHub\FinalProject\CSC8503\CSC8503Common\Debug.cpp(67,20): warning C4018:  '<': signed/unsigned mismatch
+  GameObject.cpp
+H:\GitHub\FinalProject\CSC8503\CSC8503Common\Debug.cpp(78,16): warning C4018:  '>=': signed/unsigned mismatch
+  Game.cpp
+H:\GitHub\FinalProject\PhysXEngineWrapper\physics.h(2,10): error C1083:  Cannot open include file: 'PxPhysicsAPI.h': No such file or directory
+  PaintableGameObject.cpp
+H:\GitHub\FinalProject\PhysXEngineWrapper\physics.h(2,10): error C1083:  Cannot open include file: 'PxPhysicsAPI.h': No such file or directory
+H:\GitHub\FinalProject\CSC8503\CSC8503Common\PaintableGameObject.h(2,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+  PhysicsObject.cpp
+  QuadTree.cpp
+H:\GitHub\FinalProject\PhysXEngineWrapper\physics.h(2,10): error C1083:  Cannot open include file: 'PxPhysicsAPI.h': No such file or directory
+  RenderObject.cpp
+  Transform.cpp
+  Generating Code...
+H:\GitHub\FinalProject\PhysXEngineWrapper\physics.h(2,10): error C1083:  Cannot open include file: 'PxPhysicsAPI.h': No such file or directory

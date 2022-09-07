@@ -1,0 +1,9 @@
+*.ipch
+*.tlog
+*.exe
+*.vs
+*.pdb
+*.obj
+/.vs/CSC8503/v16/Browse.VC.opendb
+/.vs/CSC8503/v16/Solution.VC.db-shm
+/.vs/CSC8503/v16/Solution.VC.db-wal
